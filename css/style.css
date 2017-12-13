@@ -36,3 +36,10 @@ a{
   color:aquamarine;
   text-decoration: none;
 }
+
+.footer {
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: right;
+  color: gray;
+}
